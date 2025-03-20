@@ -1,0 +1,10 @@
+c:\users\acer\onedrive\dokumen\visual studio 2013\Projects\Formmahasiswa_2377051002\Formmahasiswa_2377051002\bin\Debug\Formmahasiswa_2377051002.exe.config
+C:\Users\Acer\OneDrive\Dokumen\Visual Studio 2013\Projects\Formmahasiswa_2377051002\Formmahasiswa_2377051002\obj\Debug\Formmahasiswa_2377051002.Resources.resources
+C:\Users\Acer\OneDrive\Dokumen\Visual Studio 2013\Projects\Formmahasiswa_2377051002\Formmahasiswa_2377051002\obj\Debug\Formmahasiswa_2377051002.vbproj.GenerateResource.Cache
+C:\Users\Acer\OneDrive\Dokumen\Visual Studio 2013\Projects\Formmahasiswa_2377051002\Formmahasiswa_2377051002\obj\Debug\Formmahasiswa_2377051002.Form1.resources
+C:\Users\Acer\OneDrive\Dokumen\Visual Studio 2013\Projects\Formmahasiswa_2377051002\Formmahasiswa_2377051002\bin\Debug\Formmahasiswa_2377051002.exe
+C:\Users\Acer\OneDrive\Dokumen\Visual Studio 2013\Projects\Formmahasiswa_2377051002\Formmahasiswa_2377051002\bin\Debug\Formmahasiswa_2377051002.pdb
+C:\Users\Acer\OneDrive\Dokumen\Visual Studio 2013\Projects\Formmahasiswa_2377051002\Formmahasiswa_2377051002\bin\Debug\Formmahasiswa_2377051002.xml
+C:\Users\Acer\OneDrive\Dokumen\Visual Studio 2013\Projects\Formmahasiswa_2377051002\Formmahasiswa_2377051002\obj\Debug\Formmahasiswa_2377051002.exe
+C:\Users\Acer\OneDrive\Dokumen\Visual Studio 2013\Projects\Formmahasiswa_2377051002\Formmahasiswa_2377051002\obj\Debug\Formmahasiswa_2377051002.xml
+C:\Users\Acer\OneDrive\Dokumen\Visual Studio 2013\Projects\Formmahasiswa_2377051002\Formmahasiswa_2377051002\obj\Debug\Formmahasiswa_2377051002.pdb
